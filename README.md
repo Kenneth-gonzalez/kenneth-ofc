@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/54a19289987f4fecf9881.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="kenneth-ofc" src="https://img.shields.io/badge/kenneth-ofc-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
