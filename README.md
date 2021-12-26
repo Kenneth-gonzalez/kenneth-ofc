@@ -21,10 +21,12 @@ Project created by <a href="https://github.com/Kenneth-gonzalez">Kenneth-gonzale
 <div align="center">
 
   ### Simple Method
-  
+
+ [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+
+ 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kenneth-gonzalez/kenneth-ofc) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/kenneth-ofc)
   
 ### The Hard Method
 ```js
